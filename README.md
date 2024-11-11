@@ -7,7 +7,7 @@
 
 ## Otras tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=flask,git,idea,instagram,jquery,laravel,linkedin,nodejs,npm&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,git,idea,jquery,laravel,linkedin,nodejs,npm&perline=10)](https://skillicons.dev)
 
 
 
