@@ -1,4 +1,4 @@
-# Bienvenido a mi Github 👋
+# Bienvenido a mi Repo 👋
 **Soy manuel** - soy desarrollador full stack y estudiante en la UNLP 
 
 ## Mis lenguajes favoritos
