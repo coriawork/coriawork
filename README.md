@@ -1,5 +1,5 @@
 # Bienvenido a mi Github 👋
-**Soy manuel** - Si te gusta la programacion tenemos algo en comun 😄, soy desarrollador full stack y estudiante en la UNLP 
+**Soy manuel** - soy desarrollador full stack y estudiante en la UNLP 
 
 ## Mis lenguajes favoritos
 
