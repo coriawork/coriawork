@@ -13,18 +13,22 @@
 ---
 
 <p align="center">
-	<code>UBICACION</code> <b>La Plata, Argentina</b> &nbsp;&nbsp;·&nbsp;&nbsp;
-	<code>AHORA ESTOY</code> <b>Codeando</b> &nbsp;&nbsp;·&nbsp;&nbsp;
-	<code>FOCO</code> <b>Full Stack + Logica de Negocio</b>
+	<img alt="Ubicacion" src="https://img.shields.io/badge/UBICACION-e63946?style=flat-square&labelColor=0a0a0a" /> <b>La Plata, Argentina</b> &nbsp;&nbsp;·&nbsp;&nbsp;
+	<img alt="Ahora" src="https://img.shields.io/badge/AHORA-e63946?style=flat-square&labelColor=0a0a0a" /> <b>Codeando</b> &nbsp;&nbsp;·&nbsp;&nbsp;
+	<img alt="Foco" src="https://img.shields.io/badge/FOCO-e63946?style=flat-square&labelColor=0a0a0a" /> <b>Full Stack + Logica de Negocio</b>
 </p>
 
 ---
+
+<img alt="Perfil" src="https://img.shields.io/badge/PERFIL-e63946?style=flat-square&labelColor=0a0a0a" />
 
 ## Perfil
 
 Desarrollador full stack con mas de 5 anos de experiencia practica en la construccion de soluciones web y sistemas de gestion.
 
 Actualmente curso 4to ano de Licenciatura en Informatica en la UNLP. Combino frontend, backend y logica de negocio para transformar requerimientos reales en productos funcionales.
+
+<img alt="Stack principal" src="https://img.shields.io/badge/STACK%20PRINCIPAL-e63946?style=flat-square&labelColor=0a0a0a" />
 
 ## Stack principal
 
@@ -34,6 +38,8 @@ Actualmente curso 4to ano de Licenciatura en Informatica en la UNLP. Combino fro
 
 </div>
 
+<img alt="Otras tecnologias" src="https://img.shields.io/badge/OTRAS%20TECNOLOGIAS-e63946?style=flat-square&labelColor=0a0a0a" />
+
 ## Otras tecnologias
 
 <div align="left">
@@ -42,6 +48,8 @@ Actualmente curso 4to ano de Licenciatura en Informatica en la UNLP. Combino fro
 
 </div>
 
+
+<img alt="Actividad" src="https://img.shields.io/badge/ACTIVIDAD%20EN%20GITHUB-e63946?style=flat-square&labelColor=0a0a0a" />
 
 ## Actividad en GitHub
 
@@ -54,6 +62,8 @@ Actualmente curso 4to ano de Licenciatura en Informatica en la UNLP. Combino fro
 
 ---
 
+<img alt="Trabajemos" src="https://img.shields.io/badge/TRABAJEMOS%20AHORA-e63946?style=flat-square&labelColor=0a0a0a" />
+
 ## Trabajemos ahora
 
 - Portfolio: https://coriawork.github.io/portfolio/
@@ -63,4 +73,6 @@ Actualmente curso 4to ano de Licenciatura en Informatica en la UNLP. Combino fro
 
 ---
 
-> "Construyo software que conecta idea, negocio y experiencia de usuario."
+<p align="center">
+  <img alt="Quote" src="https://img.shields.io/badge/CONSTRUYO%20SOFTWARE%20QUE%20CONECTA%20IDEA%2C%20NEGOCIO%20Y%20UX-e63946?style=for-the-badge&labelColor=0a0a0a" />
+</p>
