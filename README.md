@@ -12,7 +12,6 @@
 
 <p align="center">
 	<code>UBICACION</code> <b>La Plata, Argentina</b> &nbsp;&nbsp;·&nbsp;&nbsp;
-	<code>AHORA ESTOY</code> <b>Codeando</b> &nbsp;&nbsp;·&nbsp;&nbsp;
 	<code>FOCO</code> <b>Full Stack + Logica de Negocio</b>
 </p>
 
