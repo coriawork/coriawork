@@ -2,8 +2,6 @@
 
 ### MANUEL CORIA · DESARROLLADOR DE SOFTWARE
 
-<img src="./profile.jpg" alt="Manuel Coria" width="170" />
-
 <img alt="Open to work" src="https://img.shields.io/badge/OPEN%20TO%20WORK-e63946?style=for-the-badge&labelColor=0a0a0a" />
 <img alt="Ubicacion" src="https://img.shields.io/badge/LA%20PLATA%2C%20AR-1a1a1a?style=for-the-badge&labelColor=0a0a0a" />
 <img alt="UNLP" src="https://img.shields.io/badge/UNLP-1a1a1a?style=for-the-badge&labelColor=0a0a0a" />
