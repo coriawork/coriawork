@@ -40,31 +40,6 @@ Actualmente curso 4to ano de Licenciatura en Informatica en la UNLP. Combino fro
 
 </div>
 
----
-
-## Proyectos destacados
-
-### FUTBOT
-Bot automatizado para reservas de canchas por WhatsApp con panel web de administracion.
-
-**Stack:** Node.js, JavaScript, React, Laravel, MySQL
-
-### Alquiler Express
-Aplicacion web universitaria para gestion de alquileres con roles y estados de contrato.
-
-**Stack:** PHP, Laravel, JavaScript, MySQL, HTML, CSS
-
-### Sitios Historicos
-Plataforma para explorar sitios historicos con mapa e informacion detallada.
-
-**Stack:** JavaScript, Python, Flask, React, PostgreSQL
-
-### Sistema de Gestion de Proyectos Musicales
-Plataforma de versionado para composiciones musicales orientada a colaboracion privada.
-
-**Stack:** Laravel, PHP, React, MySQL, Tailwind
-
----
 
 ## Actividad en GitHub
 
