@@ -1,6 +1,5 @@
 <div align="center">
 
-# De tu idea al negocio.
 ### MANUEL CORIA · DESARROLLADOR DE SOFTWARE
 
 <img src="./profile.jpg" alt="Manuel Coria" width="170" />
