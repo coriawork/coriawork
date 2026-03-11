@@ -1,6 +1,5 @@
 <div align="center">
 
-<img alt="De tu idea al negocio" src="https://img.shields.io/badge/DE%20TU%20IDEA%20AL%20NEGOCIO-e63946?style=for-the-badge&labelColor=0a0a0a" />
 
 ### MANUEL CORIA · DESARROLLADOR DE SOFTWARE
 
@@ -40,8 +39,6 @@ Actualmente curso 4to ano de Licenciatura en Informatica en la UNLP. Combino fro
 
 <img alt="Otras tecnologias" src="https://img.shields.io/badge/OTRAS%20TECNOLOGIAS-e63946?style=flat-square&labelColor=0a0a0a" />
 
-## Otras tecnologias
-
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=nextjs,express,mongodb,jquery,tailwind,spring,bash,npm&perline=8" />
@@ -51,7 +48,6 @@ Actualmente curso 4to ano de Licenciatura en Informatica en la UNLP. Combino fro
 
 <img alt="Actividad" src="https://img.shields.io/badge/ACTIVIDAD%20EN%20GITHUB-e63946?style=flat-square&labelColor=0a0a0a" />
 
-## Actividad en GitHub
 
 <div align="center">
 
@@ -64,7 +60,6 @@ Actualmente curso 4to ano de Licenciatura en Informatica en la UNLP. Combino fro
 
 <img alt="Trabajemos" src="https://img.shields.io/badge/TRABAJEMOS%20AHORA-e63946?style=flat-square&labelColor=0a0a0a" />
 
-## Trabajemos ahora
 
 - Portfolio: https://coriawork.github.io/portfolio/
 - LinkedIn: https://www.linkedin.com/in/manuel-coria-401022260/
