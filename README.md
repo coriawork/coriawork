@@ -19,9 +19,9 @@
 
 ## Perfil
 
-Desarrollador full stack con mas de 5 anos de experiencia practica en la construccion de soluciones web y sistemas de gestion.
+Desarrollador full stack con mas de 5 años de experiencia practica en la construccion de soluciones web y sistemas de gestion.
 
-Actualmente curso 4to ano de Licenciatura en Informatica en la UNLP. Combino frontend, backend y logica de negocio para transformar requerimientos reales en productos funcionales.
+Actualmente curso 4to año de Licenciatura en Informatica en la UNLP. Combino frontend, backend y logica de negocio para transformar requerimientos reales en productos funcionales.
 
 ## Stack principal
 
